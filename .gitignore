@@ -1,6 +1,7 @@
 /vendor/
 /node_modules/
 .env
+.env.docker
 .phpunit.result.cache
 /public/hot
 /storage/*.key
